@@ -1,0 +1,92 @@
+.header{
+    background: rgb(173, 228, 47)00;
+    overflow: hidden;
+    margin: 0px;
+    height: 50px;
+    text-align: center;
+}
+
+.logo{
+    width: 20%;
+    /* background: rgb(207, 61, 24); */
+    float: left;
+}
+
+.menu{
+    width: 60%;
+    margin-top: 10px;
+    background: rgb(40, 30, 134);
+    float: left;
+}
+
+.cari{
+    width: 18%;
+    margin-top: 10px;
+    background: rgb(21, 146, 177);
+    float: left;
+}
+
+.container{
+    background: rgb(173, 228, 47);
+    overflow: hidden;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+.lineatas{
+    /* background: red; */
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-family:Impact;
+    font-size: medium;
+    
+}
+
+.kategori{
+    float: left;
+}
+
+.lengkap{
+    float: right;
+}
+
+.isi{
+    width: 15%;
+    height: 200px;
+    background: rgb(43, 175, 11);
+    float: left;
+    margin: 10px;
+}
+
+.footer{
+    background: rgb(40, 30, 134);
+    overflow: hidden;
+    height: 100px;
+    margin-top: 5px;
+}
+
+.ifoot{
+    height: 100px;
+    background: rgb(175, 11, 11);
+    margin: 5px;
+    margin-bottom: 5px;
+}
+
+.kiri{
+    width: 30%;
+    float: left;
+}
+
+.tengah{
+    float: left;
+    width: 37%;
+}
+
+.kanan{
+    float: left;
+    width: 30%;
+    /* margin-left: auto; */
+    margin-right: auto;
+}
